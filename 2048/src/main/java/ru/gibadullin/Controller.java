@@ -1,4 +1,4 @@
-package main;
+package ru.gibadullin;
 
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;

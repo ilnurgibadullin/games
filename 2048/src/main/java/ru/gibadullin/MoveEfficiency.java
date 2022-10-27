@@ -1,4 +1,4 @@
-package main;
+package ru.gibadullin;
 
 public class MoveEfficiency implements Comparable<MoveEfficiency> {
     private int numberOfEmptyTiles;
